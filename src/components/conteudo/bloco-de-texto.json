@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_conteudo_bloco_de_textos",
+  "info": {
+    "displayName": "Bloco de texto",
+    "icon": "newspaper",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "texto": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}
